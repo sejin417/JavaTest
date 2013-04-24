@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/appserv-admin.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/appserv-rt.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/fscontext.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/imq.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/imqjmsra.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/j2ee.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/jakarta-oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/jdom-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/jfreechart-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/jms.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/quartz-all-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/BIT_DEV/Workspace/Lib/swt.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="class"/>
+</classpath>
